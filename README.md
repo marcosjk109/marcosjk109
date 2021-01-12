@@ -12,9 +12,6 @@ I´m software who love new challenges & OpenSource contributions. My goal is to 
   <img align="left" width="22px" src="https://raw.githubusercontent.com/TonGarcia/TonGarcia/a90787c330a000ada45a386828d54eb86ed78d7f/linkedin.svg" style="max-width:100%;">
 </a>
 
-<a href="https://www.youtube.com/channel/UCfsI-F8KtcNFpmxg7zMid-w" target="_blank">
-  <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/youtube-sm.png?raw=true" style="max-width:100%;">
-</a>
 
 <br>
 <br>
