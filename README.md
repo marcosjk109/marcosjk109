@@ -1,4 +1,4 @@
-# Marcos José - [Data Scientist & FullStack Developer] 👋
+# Marcos José - [FullStack Developer] 👋
 
 I´m software who love new challenges & OpenSource contributions. My goal is to bring Science, Technology & the God's love word all over the world.
 
