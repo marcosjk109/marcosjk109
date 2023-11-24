@@ -16,6 +16,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" heigth="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" heigth="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascrip/javascript-original.svg" width="50" heigth="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" heigth="45"/>
 <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/laravel.svg" width="50" heigth="45"/>
 <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/sass.svg" width="50" heigth="45"/>
