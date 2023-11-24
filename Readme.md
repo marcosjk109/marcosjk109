@@ -18,8 +18,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" heigth="45"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" width="50" heigth="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" heigth="45"/>
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/laravel.svg" width="50" heigth="45"/>
-<img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/sass.svg" width="50" heigth="45"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/laravel/laravel-plain-wordmark.svg" width="50" heigth="45"/>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/sass/sass-original.svg" width="50" heigth="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" heigth="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"heigth="50"/>
 <p/>
