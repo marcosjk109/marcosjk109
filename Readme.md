@@ -10,7 +10,7 @@
  <div>
   <p align="center"> 
     <a href="https://www.instagram.com/marcos_josesm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:marcos.mj.mj48@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="max-width: 100%;height: 22px;"></a>
+    <a href = "mailto:marcos.mj.mj48@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="max-width: 100%;height: 22px; border-radius:"></a>
 <div align="center">     
 <h1>Main Skills:<h1>
 <p align="center">
