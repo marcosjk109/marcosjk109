@@ -2,8 +2,8 @@
   <h1>🌟 Bem-vindo(a) ao nosso espaço de conexão e descoberta! É um prazer imenso ter você aqui. Sinta-se em casa para explorar, compartilhar e aprender. Que este seja um lugar onde novas ideias floresçam e onde cada pessoa encontre inspiração. Seja bem-vindo(a) à nossa comunidade! 🌿✨</h1>
 </div>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abymael1895&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=FF4500&text_color=1E90FF&bg_color=0d1117" alt="Abymael Rennare github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abymael1895&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcosjk109&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=FF4500&text_color=1E90FF&bg_color=0d1117" alt="Marcos José github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjk109&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
     
  </div>
   
@@ -26,7 +26,7 @@
      
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abymael1895}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcosjk109}/count.svg" /></p> 
 <br>
 </div>
    
