@@ -31,6 +31,6 @@
 <br>
 </div>
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1010&lines=Uma+Vez+Flamengo,+Sempre+Flamengo+!+⚽+🔥+;FLamengo+Sempre+Eu+hei+De+Ser+!+🙏;É+Meu+Maior+Prazer+!+😎;Vê-lo+Brilhar+!+🌟;Seja+Na+terra...+🌴;Seja+No+Mar...+🌊;VENCER+!+VENCER+!+VENCER+!+🏆;UMA+VEZ+FLAMENGO,+FLAMENGO+ATÉ+MORRER+!+❤+🖤;)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70478&random=false&width=435&lines=Programar+%C3%A9+como+resolver+um+quebra-cabe%C3%A7a+infinito%2C+e+cada+bug+%C3%A9+apenas+mais+uma+pe%C3%A7a+para+a+solu%C3%A7%C3%A3o+final.)](https://git.io/typing-svg)   
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer" />     
