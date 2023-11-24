@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, seja bem vindo(a) !!!</h1>
+  <h1>🌟 Bem-vindo(a) ao nosso espaço de conexão e descoberta! É um prazer imenso ter você aqui. Sinta-se em casa para explorar, compartilhar e aprender. Que este seja um lugar onde novas ideias floresçam e onde cada pessoa encontre inspiração. Seja bem-vindo(a) à nossa comunidade! 🌿✨</h1>
 </div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abymael1895&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=FF4500&text_color=1E90FF&bg_color=0d1117" alt="Abymael Rennare github stats" /> 
@@ -9,9 +9,8 @@
   
  <div>
   <p align="center"> 
-    <a href="https://instagram.com/_abymael__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:rennare091@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href=https://www.linkedin.com/in/abymael-rennare-65b124241Q target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/marcos_josesm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:marcos.mj.mj48@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div align="center">     
 <h1>Main Skills:<h1>
 <p align="center">
