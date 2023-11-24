@@ -31,6 +31,6 @@
 <br>
 </div>
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70478&random=false&width=435&lines=Programar+%C3%A9+como+resolver+um+quebra-cabeça+infinito+e+cada+bug+apenas+mais+uma+peça+para+achar+a+solução+final.)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70478&random=false&width=435&lines=Programar+%C3%A9+como+resolver+um+quebra-cabe%C3%A7a+infinito%2C+e+cada+bug+%C3%A9+apenas+mais+uma+pe%C3%A7a+para+a+solu%C3%A7%C3%A3o+final.;cabe%C3%A7a+infinito%2C+e+cada+bug+%C3%A9+apenas;+mais+uma+pe%C3%A7a+para+a+solu%C3%A7%C3%A3o+final.)](https://git.io/typing-svg)
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer" />     
