@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Marcos Machado
 **`Desenvolvedor Front-End`**
 
-Me chamo Marcos Machado, tenho 22 anos e sou natural do Pará. Concluí o ensino médio no E.E.A.G.C, com o curso técnico em informática pela COMPUWAY. Atualmente, estou cursando Licenciatura em Informatica no IFAP. Sou apaixonadao por tecnologia e membro do grupo de pesquisa GPTICAM atuando como desenvolvedor web, desenvolvedo aplicações voltadas a I.A entre robotica aplicada a educação.
+Me chamo Marcos Machado, tenho 22 anos e sou natural do Pará. Concluí o ensino médio no E.E.A.G.C, com o curso técnico em informática pela COMPUWAY. Atualmente, estou cursando Licenciatura em Informatica no IFAP. Sou apaixonado por tecnologia e membro do grupo de pesquisa GPTICAM atuando como desenvolvedor web, desenvolvedo aplicações voltadas a I.A entre robotica aplicada a educação.
 
 <p align="left">
     <a href="https://github.com/marcosjk109?tab=repositories&sort=stargazers">
